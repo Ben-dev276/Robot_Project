@@ -1,2 +1,2 @@
-# Projet_Robot
-4th_Projet_Robot_GEII
+# Project_Robot
+fourth-robot-project-geii
